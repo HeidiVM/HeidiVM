@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Mi nombre es Heidi Villavicencio
+Estudio en la Universidad Tecnica de Ambato
 <!--
 **HeidiVM/HeidiVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
