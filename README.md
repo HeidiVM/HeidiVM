@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a tod@s 👋
 -Mi nombre es Heidi Villavicencio
 
 -🎓Estudio en la Universidad Tecnica de Ambato
